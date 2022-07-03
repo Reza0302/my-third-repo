@@ -1,0 +1,35 @@
+small{
+    color: darkgreen;
+}
+p{
+    background-color: lightskyblue;
+}
+h3{
+    background-color: cyan;
+}
+.blog{
+    background-color: crimson;
+    border: 5px solid yellowgreen;
+    border-radius: 15px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+.author{
+    color: black;
+}
+.blog-title{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+.blog p{
+    color: brown;
+    text-align: justify;
+}
